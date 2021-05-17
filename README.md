@@ -35,3 +35,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/gentoo.svg"  style="background-color:transparent!important"></code>
+
+<!--START_SECTION:waka-->
+```text
+Java         45 hrs 7 mins   █████████████████████▓░░░   87.02 % 
+XML          5 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Groovy       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Vue.js       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+<!--END_SECTION:waka-->
