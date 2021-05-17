@@ -18,7 +18,7 @@ Hi, I'm [Vladislav bulgakov](https://stick-design.ru/), Full Stack web developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
+<p align="center">
 <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="480" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
@@ -35,9 +35,25 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/gentoo.svg"  style="background-color:transparent!important"></code>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+  ```text
+  No Activity tracked this Week
+  ```
+<!--END_SECTION:waka-->  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="39%" />
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="39%"/>
+</p>
+
+
+
+
