@@ -1,38 +1,38 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://t.me/stick_qwe">
+  <img align="left" alt="Stickpro Telegram" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/telegram.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://stick-design.ru">
+  <img align="left" alt="Stickpro website" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/browser.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://steamcommunity.com/id/stickpro">
+  <img align="left" alt="Stickpro Steam" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/steam.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/3o5dgy91o4moan01dp4xyvbqd?si=d300b377a15944b3">
+  <img align="left" alt="Stickpro Spotify" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=stickpro.stickpro)
 
-Hi, I'm [Vladiwslav bulgakov](https://stick-design.ru/), Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Vladislav bulgakov](https://stick-design.ru/), Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="580" height="320" />
+<img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="480" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@stick_qwe](https://t.me/stick_qwe);
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/52242?s=20&v=4">
-
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/javascript.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/vue.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nuxt.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nodejs.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/laravel.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/mysql.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/52242?s=20&v=4"></code>
