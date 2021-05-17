@@ -19,10 +19,10 @@ Hi, I'm [Vladiwslav bulgakov](https://stick-design.ru/), Full Stack web develope
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/blob/master/assets/anim.gif" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="580" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://t.me/stick_qwe);
+- 📫 How to reach me: [@stick_qwe](https://t.me/stick_qwe);
 
 **Languages and Tools:**
 
@@ -36,11 +36,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/52242?s=20&v=4">
 
-
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
