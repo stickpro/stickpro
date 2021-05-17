@@ -26,13 +26,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/javascript.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/vue.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nuxt.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nodejs.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/laravel.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/mysql.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/52242?s=20&v=4"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/javascript.svg" style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/vue.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nuxt.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nodejs.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/laravel.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/gentoo.svg"  style="background-color:transparent!important"></code>
