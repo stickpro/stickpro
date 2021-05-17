@@ -44,12 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <br />
 <br />
-<br />
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="39%" />
   <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="39%"/>
