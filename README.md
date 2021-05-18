@@ -46,7 +46,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <br />
 <br />
-
+  
+<!--START_SECTION:waka-->
+Java         45 hrs 7 mins   █████████████████████▓░░░   87.02 %
+XML          5 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Groovy       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Vue.js       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="39%" />
