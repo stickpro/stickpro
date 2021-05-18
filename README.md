@@ -54,8 +54,8 @@ JavaScript   14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="39%" />
-  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="39%"/>
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="49%"/>
 </p>
 
 
