@@ -48,11 +48,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
   
 <!--START_SECTION:waka-->
-Java         45 hrs 7 mins   █████████████████████▓░░░   87.02 %
-XML          5 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Groovy       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Vue.js       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```text
+Markdown     26 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.36 % 
+JavaScript   14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.70 % 
+```
 <!--END_SECTION:waka-->
 
 <p align="center">
