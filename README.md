@@ -48,8 +48,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 25 mins
-
 Vue.js       4 hrs 28 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   66.03 % 
 JavaScript   1 hr 24 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.85 % 
 TypeScript   23 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.78 % 
