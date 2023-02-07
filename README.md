@@ -33,7 +33,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/vue.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nuxt.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nodejs.svg"  style="background-color:transparent!important"></code>
-</code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/gentoo.svg"  style="background-color:transparent!important"></code>
 <br />
