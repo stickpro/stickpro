@@ -57,8 +57,8 @@ Vue.js   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="45%"/>
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="49%"/>
 </p>
 
 
