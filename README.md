@@ -27,10 +27,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **Languages and Tools:**
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/laravel.svg"  style="background-color:transparent!important"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/go.svg"  style="background-color:transparent!important"></code>
-<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"  style="background-color:transparent!important">
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/go.svg" 
+style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/postgresql.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/kafka.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/vue.svg"  style="background-color:transparent!important"></code>
+<code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/nuxt.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/arch.svg"  style="background-color:transparent!important"></code>
 <code><img height="20" src="https://github.com/stickpro/stickpro/raw/master/assets/gentoo.svg"  style="background-color:transparent!important"></code>
+</p>
 <br />
 <br />
 <br />
