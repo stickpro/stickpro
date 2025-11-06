@@ -1,7 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> 
-<a href="https://t.me/stick_qwe">
-  <img align="left" alt="Stickpro Telegram" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/telegram.svg" />
-</a>
 <a href="https://stick-design.ru">
   <img align="left" alt="Stickpro website" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/browser.svg" />
 </a>
