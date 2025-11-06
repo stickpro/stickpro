@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="480" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@stick_qwe](https://t.me/stick_qwe);
+- 📫 How to reach me:
 
 **Languages and Tools:**
 <code><img width="20px" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"  style="background-color:transparent!important"></code>
