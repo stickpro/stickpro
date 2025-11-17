@@ -1,5 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> 
-<a href="https://stick-design.ru">
+<a href="https://t.me/stick_qwe">
+  <img align="left" alt="Stickpro Telegram" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/telegram.svg" />
+</a>
+<a href="https://stick.sh">
   <img align="left" alt="Stickpro website" width="22px" src="https://github.com/stickpro/stickpro/raw/master/assets/browser.svg" />
 </a>
 <a href="https://steamcommunity.com/id/stickpro">
@@ -19,8 +22,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/stickpro/stickpro/raw/master/assets/anim.gif" width="480" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:
-
+- 📫 How to reach me: [@stick_qwe](https://t.me/stick_qwe);
+  
 **Languages and Tools:**
 <code><img width="20px" src="https://github.com/stickpro/stickpro/raw/master/assets/php.svg"  style="background-color:transparent!important"></code>
 <code><img width="20px" src="https://github.com/stickpro/stickpro/raw/master/assets/laravel.svg"  style="background-color:transparent!important"></code>
@@ -55,6 +58,11 @@ Protocol Buffer   38 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/stickpro/github-stats-transparent/output/generated/overview.svg" width="49%"/>
+</p>
 
 
 
